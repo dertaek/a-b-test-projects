@@ -1,0 +1,1 @@
+ c=X[0], s=100*X[1], cmap='viridis')
